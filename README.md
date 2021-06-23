@@ -30,7 +30,7 @@
 ---
 
 ```py
-Open main.exe
+Open UltimateFileConvertor.exe
 Click 'Import Files' and chose the files
 Click the type of file you want to convert to
 Choose the location

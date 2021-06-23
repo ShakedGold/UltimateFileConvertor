@@ -1,4 +1,4 @@
-# Image Convertor
+# Ultimate File Convertor
 >  A GUI application that can convert Images or Videos from many file types.<br>
 
 <br>

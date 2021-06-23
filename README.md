@@ -1,2 +1,25 @@
 # ImageConvertor
- A GUI application that can convert Images from many file types
+>  A GUI application that can convert Images from many file types <br>like: <b>jpg, png, jpeg, webp</b><br>
+
+_- Made by_ <a href= "https://twitter.com/ShakedGold_" title="@ShakedGold_ on twitter"> @ShakedGold_ <img src="https://gourav.io/twitter.svg" style="vertical-align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@ShakedGold_ on twitter"> </a>
+<p align="center">
+  <a href="https://twitter.com/ShakedGold_" target=blank>
+  <img src="https://img.shields.io/badge/ShakedGold_-1da1f2?style=for-the-badge&labelColor=1da1f2&color=1da1f2&logo=twitter&logoColor=white&label=Follow" alt="Follow on Twitter"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/shakedgold" target=blank>
+  <img src="https://github.com/GorvGoyl/Notion-Boost-browser-extension/raw/master/src/images/readme/bmc.png" width="200" alt="Buy me a Coffee"/>
+  </a>
+</p>
+
+# Usage
+
+---
+
+```Python
+Open main.py
+```
+Click ```Import Files``` and chose the files<br>
+Click the type of file you want to convert to<br>
+Choose the location<br>

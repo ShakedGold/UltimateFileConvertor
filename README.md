@@ -18,7 +18,7 @@ _- Made by_ <a href= "https://twitter.com/ShakedGold_" title="@ShakedGold_ on tw
 ---
 
 ```Python
-Open main.py
+Open main.exe
 ```
 Click ```Import Files``` and chose the files<br>
 Click the type of file you want to convert to<br>

@@ -20,12 +20,12 @@
 
 ---
 
-```Python
+```py
 Open main.exe
+Click 'Import Files' and chose the files
+Click the type of file you want to convert to
+Choose the location
 ```
-Click ```Import Files``` and chose the files<br>
-Click the type of file you want to convert to<br>
-Choose the location<br>
 
 # List Of Available Filetypes
 Image | Video

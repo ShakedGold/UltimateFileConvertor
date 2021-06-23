@@ -1,5 +1,5 @@
-# Image Convertor
->  A GUI application that can convert Images from many file types.<br>
+# Ultimate File Convertor
+>  A GUI application that can convert Images or Videos from many file types.<br>
 
 <br>
 <p align="center">
@@ -20,17 +20,17 @@
 
 ---
 
-```Python
+```py
 Open main.exe
+Click 'Import Files' and chose the files
+Click the type of file you want to convert to
+Choose the location
 ```
-Click ```Import Files``` and chose the files<br>
-Click the type of file you want to convert to<br>
-Choose the location<br>
 
 # List Of Available Filetypes
 Image | Video
 --- | --- |
-JPEG | *SOON*
-PNG | *SOON*
-JPG | *SOON*
-WEBG | *SOON*
+JPEG | MP4
+PNG | MOV
+JPG | AVI
+WEBG | MKV

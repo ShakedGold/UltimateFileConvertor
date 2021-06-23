@@ -1,9 +1,9 @@
 # Image Convertor
->  A GUI application that can convert Images from many file types <br>like: <b>jpg, png, jpeg, webp</b><br>
+>  A GUI application that can convert Images from many file types.<br>
 
 <br>
 <p align="center">
-  _- Made by_ <a href= "https://twitter.com/ShakedGold_" target="blank" title="@ShakedGold_ on twitter"> @ShakedGold_ <img src="https://gourav.io/twitter.svg" style="vertical-  align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@ShakedGold_ on twitter"> </a>
+  <i>-Made by</i> <a href= "https://twitter.com/ShakedGold_" target="blank" title="@ShakedGold_ on twitter"> @ShakedGold_ <img src="https://gourav.io/twitter.svg" style="vertical-  align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@ShakedGold_ on twitter"> </a>
 </p>
 <p align="center">
   <a href="https://twitter.com/ShakedGold_" target="blank">
@@ -26,3 +26,11 @@ Open main.exe
 Click ```Import Files``` and chose the files<br>
 Click the type of file you want to convert to<br>
 Choose the location<br>
+
+# List Of Available Filetypes
+Image | Video
+--- | --- |
+JPEG | *SOON*
+PNG | *SOON*
+JPG | *SOON*
+WEBG | *SOON*

@@ -1,5 +1,5 @@
 # Image Convertor
->  A GUI application that can convert Images from many file types.<br>
+>  A GUI application that can convert Images or Videos from many file types.<br>
 
 <br>
 <p align="center">

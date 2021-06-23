@@ -1,7 +1,16 @@
 # Ultimate File Convertor
 >  A GUI application that can convert Images or Videos from many file types.<br>
 
-<br>
+<br><br>
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/ShakedGold/UltimateFileConvertor/total?color=lime" width="100" alt="Downloads Total"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/ShakedGold/UltimateFileConvertor/releases/tag/1.0">
+    <img src="https://img.shields.io/github/v/release/ShakedGold/UltimateFileConvertor?color=yellow&include_prereleases" width="100" alt="Downloads Total"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://img.shields.io/github/languages/code-size/ShakedGold/UltimateFileConvertor" width="140" alt="File Size">
+</p>
 <p align="center">
   <i>-Made by</i> <a href= "https://twitter.com/ShakedGold_" target="blank" title="@ShakedGold_ on twitter"> @ShakedGold_ <img src="https://gourav.io/twitter.svg" style="vertical-  align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@ShakedGold_ on twitter"> </a>
 </p>

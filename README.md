@@ -30,7 +30,7 @@ Choose the location<br>
 # List Of Available Filetypes
 Image | Video
 --- | --- |
-JPEG | *SOON*
-PNG | *SOON*
-JPG | *SOON*
-WEBG | *SOON*
+JPEG | MP4
+PNG | MOV
+JPG | AVI
+WEBG | MKV
